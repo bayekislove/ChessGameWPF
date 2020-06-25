@@ -1,0 +1,16 @@
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\MainWindow.g.cs
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\App.g.cs
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy_MarkupCompile.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy_MarkupCompile.lref
+C:\Users\kacpe\source\repos\Szachy\bin\Debug\Szachy.exe.config
+C:\Users\kacpe\source\repos\Szachy\bin\Debug\Szachy.exe
+C:\Users\kacpe\source\repos\Szachy\bin\Debug\Szachy.pdb
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\MainWindow.baml
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.g.resources
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.Properties.Resources.resources
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.exe
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.pdb
+C:\Users\kacpe\source\repos\Szachy\obj\Debug\Szachy.csprojAssemblyReference.cache
+C:\Users\kacpe\source\repos\Szachy\bin\Debug\Dokumentacja.xml

@@ -1,0 +1,14 @@
+C:\Users\kacpe\source\repos\Szachy\bin\Release\Szachy.exe.config
+C:\Users\kacpe\source\repos\Szachy\bin\Release\Szachy.exe
+C:\Users\kacpe\source\repos\Szachy\bin\Release\Szachy.pdb
+C:\Users\kacpe\source\repos\Szachy\obj\Release\MainWindow.g.cs
+C:\Users\kacpe\source\repos\Szachy\obj\Release\App.g.cs
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy_MarkupCompile.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy_MarkupCompile.lref
+C:\Users\kacpe\source\repos\Szachy\obj\Release\MainWindow.baml
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.g.resources
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.Properties.Resources.resources
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.csproj.GenerateResource.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.exe
+C:\Users\kacpe\source\repos\Szachy\obj\Release\Szachy.pdb
